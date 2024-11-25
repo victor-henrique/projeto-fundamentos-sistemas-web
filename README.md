@@ -1,2 +1,2 @@
-# projeto-fundamentos-sistemas-web-fase1
+# projeto-fundamentos-sistemas-web
 Projeto desenvolvido para disciplina de Fundamentos de Sistemas Web - PUCRS
